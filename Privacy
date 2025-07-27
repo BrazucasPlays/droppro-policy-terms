@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidade – DropPro</title>
+</head>
+<body>
+  <h1>Política de Privacidade – DropPro</h1>
+  <p>A sua privacidade é importante para nós. Este documento descreve como usamos, protegemos e compartilhamos as informações dos usuários.</p>
+
+  <h2>1. Coleta de Dados</h2>
+  <p>Coletamos dados fornecidos via integração com Mercado Livre, incluindo token de acesso, identificadores da conta e informações públicas.</p>
+
+  <h2>2. Uso dos Dados</h2>
+  <p>Os dados são utilizados exclusivamente para prover funcionalidades do app DropPro, como gerenciamento de produtos, vendas e estoques.</p>
+
+  <h2>3. Compartilhamento de Dados</h2>
+  <p>Não compartilhamos seus dados com terceiros, exceto quando exigido por lei ou para compatibilizar funcionalidades autorizadas.</p>
+
+  <h2>4. Segurança</h2>
+  <p>Os dados são armazenados de forma segura no Firebase com acesso controlado. Não utilizamos seus dados para fins publicitários.</p>
+
+  <h2>5. Alterações</h2>
+  <p>Podemos atualizar esta política com avisos dentro do aplicativo.</p>
+
+  <p>Contato: suporte@droppro.app</p>
+</body>
+</html>
